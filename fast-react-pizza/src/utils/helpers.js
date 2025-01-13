@@ -11,6 +11,7 @@ export function formatDate(dateStr) {
     month: "short",
     hour: "2-digit",
     minute: "2-digit",
+    hour12: true,
   }).format(new Date(dateStr));
 }
 
