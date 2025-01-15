@@ -42,6 +42,7 @@ function Order() {
           </span>
         </div>
       </div>
+      
 
       <div className="flex flex-wrap items-center justify-between gap-2 bg-stone-200 px-6 py-5">
         <p className="font-medium">
